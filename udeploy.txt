@@ -1,0 +1,3 @@
+Experienced in UrbanCode Deploy a plug-in for Jenkins CI and also publish the build result to UrbanCode Deploy and trigger an application process
+
+Installed plugins for Jenkins server and provides artifacts into an UDeploy component as a post-build action.
